@@ -10,7 +10,7 @@ Mindset - how we think -> Values - what's important to us -> Principles is stand
 Principles
 - value creation => generate outcome , keep things changeable, work iterative & incremental, measure by done work
 - People/Collaboration => Organize around value creation, self-org teams, support & motivate individuals, drive w people interaction
-- Quality / Improvement => Continuous attention, sustainable workloads, make things happen
+- Quality / Improvement => Continuous attention, sustainable workloads, make things simple, always learn and improve
 
 Agility is organization-wide Agile, is also a possible result of being Agile
 
@@ -35,6 +35,5 @@ Measure agile and agility
 - Agile - base in mindset
 - Agility - outcome, characteristics of org obtained by applying agile
 
-Referral links:
-in image
+Referral links: In image
 
