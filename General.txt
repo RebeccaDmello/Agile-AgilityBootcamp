@@ -6,6 +6,15 @@ How are you using Agile?
 Mindset - how we think -> Values - what's important to us -> Principles is standards that guide us
 
 4 Agile Values
+- Focus
+- Commitment
+- Value creation
+- Growth
+
+Important to US?
+- Working together
+- Respect and safety
+- Openness
 
 Principles
 - value creation => generate outcome , keep things changeable, work iterative & incremental, measure by done work
@@ -34,6 +43,14 @@ Measure agile and agility
 
 - Agile - base in mindset
 - Agility - outcome, characteristics of org obtained by applying agile
+
+How to ensure agile is sustainable
+- Ensure change management
+- Self organize
+
+How to promote agility in organizations
+- Over come existing course work
+- Connect with outcomes
 
 Referral links: In image
 
